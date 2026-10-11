@@ -1,0 +1,59 @@
+{
+  "slug": "eventlogue-private-limited-thrissur",
+  "name": "EventLogue Private Limited",
+  "shortName": "EventLogue Private Limited",
+  "descriptor": "Event Management",
+  "address": "Manakkody, Thrissur, Keralam 680012",
+  "area": "Manakkody",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680012",
+  "geo": {
+    "lat": 10.4972763,
+    "lng": 76.171139
+  },
+  "mapsLink": "https://maps.google.com/?cid=14454988798329377748",
+  "phone": "+91 95677 47919",
+  "whatsapp": "919567747919",
+  "hours": "Open 9 am – 6 pm · all days",
+  "opens": "09:00",
+  "closes": "18:00",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "name": "Arun Sasikumar",
+      "rating": 5,
+      "quote": "Our wedding at Blue Serene was a seamless experience thanks to the proactive and knowledgeable approach Rahul and the Eventlogue team brought to the table. From the beginning, they understood our vision for a waterfront celebration, offering a flexible cost model that allowed us to customize every detail of the Mandapam."
+    },
+    {
+      "name": "AISWARYA U R",
+      "rating": 5,
+      "quote": "I recently had the pleasure of experiencing the services of the event company “EventLogue Pvt Ltd” for my friend’s wedding at Blue Serene, and I must say they did an absolutely wonderful job."
+    },
+    {
+      "name": "Sasikumar Nambiar",
+      "rating": 5,
+      "quote": "We hosted our son's marriage at Blue Serene Resort, Thoyakkavu. The stage, panthal, decorations and other wedding arrangements were carried out by EVENTLOGUE PRIVATE LIMITED, Manakkodi, Thrissur. Everything was perfectly and beautifully created by Eventlogue. It was a wonderful experience, and all our guests appreciated the arrangements."
+    },
+    {
+      "name": "Alwin Augustine",
+      "rating": 5,
+      "quote": "We had a wonderful experience with EventLogue for our wedding. Their team provided excellent support and care throughout the entire event, making everything smooth and stress-free for us and our family. The stage decoration was beautifully done and exactly how we envisioned it."
+    },
+    {
+      "name": "thejus lal",
+      "rating": 5,
+      "quote": "Rahul did an amazing job with our cocktail party. It just felt right from start to finish. Everything flowed so well and the vibe was perfect, our guests had a great time. Couldn’t have asked for a better evening!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://eventlogue-private-limited-thrissur.vercel.app"
+}
